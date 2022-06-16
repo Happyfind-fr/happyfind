@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events
   push:
-    branches: [ "main","develop","theo-develop" ]
+    branches: [ "theo-develop" ]
   pull_request:
-    branches: [ "main","develop","theo-develop" ]
+    branches: [ "theo-develop" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
