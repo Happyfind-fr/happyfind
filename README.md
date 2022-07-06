@@ -1,4 +1,2 @@
-# happyfy [GLOBAL DEV BRANCH]
-Project of our CDA training
+# happyfy [FEATURE] : initializing the project
 
-[DEV branch] no direct push on it
